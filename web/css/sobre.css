@@ -1,0 +1,36 @@
+:root {
+  --color-yelllow: #FEC63E;
+  --color-black-bg: #121212;
+  --color-black-text: rgba(0, 0, 0, 0.87);
+  --color-white-text: rgba(255,255,255, 0.87);
+  --color-white-bg: #FFFFFF;
+}
+
+.interna_sobre {
+  background: url("../img/img-background/bg-sobre.jpg") no-repeat center;
+  background-size: cover;
+ 
+}
+
+.missao_sobre {
+  padding-top: 60px;
+}
+
+.missao_sobre p {
+  font-size: 1.125rem;
+  line-height: 1.6875rem;
+  color: var(--color-black-text);
+  padding-right: 60px;
+  margin-bottom: 15px;
+}
+
+.missao_sobre ul li {
+  font-family: Georgia, "Times New Roman", serif; 
+  font-size: 1.125rem; 
+  line-height: 1.875rem;
+  color: var(--color-black-text);
+}
+
+.foto_equipe {
+  padding-top: 30px;
+}

@@ -1,0 +1,241 @@
+:root {
+  --color-yelllow: #fec63e;
+  --color-black-bg: #121212;
+  --color-black-text: rgba(0, 0, 0, 0.87);
+  --color-white-text: rgba(255, 255, 255, 0.87);
+  --color-white-bg: #ffffff;
+}
+
+/* Estilo para Tablet ========================= */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  /* Qualidade Home */
+  .qualidade_lista::after {
+    background-image: url(../img/linhas-tablet.png);
+    background-repeat: no-repeat;
+    left: 123px;
+  }
+
+  .qualidade_lista li {
+    padding: 0 10px;
+  }
+
+  /* Footer Geral*/
+  .redes_sociais ul li a {
+    width: 47px;
+    height: 47px;
+    font-size: 1.625rem;
+  }
+
+  .historia {
+    padding-right: 0;
+  }
+
+  /* Página Produtos */
+  .produto_item h2 {
+    top: -142px;
+  }
+
+  .produto_icone {
+    padding: 41px 0;
+  }
+
+  .produtos_info p {
+    height: 121px;
+    font-size: 0.875rem;
+    line-height: 1.3125rem;
+    padding: 20px 30px;
+  }
+
+  .produtos_info ul li {
+    width: 181px;
+  }
+
+  .form {
+    padding-right: 20px;
+  }
+}
+
+/* Estilo para Smartphone ===================== */
+@media only screen and (max-width: 767px) {
+  /* Geral */
+  .produtos,
+  .portfolio,
+  .qualidade {
+    padding: 40px 0 45px 0;
+  }
+
+  .quebra {
+    background-image: url(../img/img-background/bg-footer-3.jpg);
+  }
+
+  .quote_externo p::after,
+  .quote_externo p::before {
+    margin: 2px auto 2px auto;
+  }
+
+  .dados_orcamento,
+  .dados_contato,
+  .contato_mapa,
+  .foto_equipe {
+    display: none;
+  }
+
+  /* Header */
+  .header {
+    position: relative;
+  }
+
+  .header img {
+    margin: 0 auto;
+  }
+
+  .header_menu {
+    text-align: center;
+    margin-bottom: 0;
+  }
+
+  .header_menu li {
+    margin: 5px;
+  }
+
+  .header_menu ul li a {
+    border: 4px solid var(--color-black-bg);
+    width: 135px;
+    display: block;
+    float: left;
+  }
+
+  .header_menu ul li a::after {
+    height: 0;
+    /* elimina efeito border-bottom*/
+  }
+
+  .header_menu ul li a:hover {
+    border-color: var(--color-white-text);
+  }
+
+  /* Introdução */
+  .introducao {
+    margin-top: 0;
+    padding: 0;
+    background: url("../img/img-background/bg-mobile.jpg") no-repeat center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .introducao h1 {
+    font-size: 2.25rem; /* 36px */
+  }
+
+  .introducao .btn {
+    margin-top: 25px;
+  }
+
+  /* Introdução Interna */
+  .introducao_interna {
+    margin-top: 0;
+  }
+
+  /* Qualidade */
+  .qualidade_lista::after {
+    background: url(../img/linhas-mobile.png) no-repeat;
+    width: 316px;
+    height: 376px;
+    top: 160px;
+    left: -8px;
+  }
+
+  .qualidade_lista li h3 {
+    margin: 20px 0 5px 0;
+  }
+
+  .qualidade_lista li h3::after {
+    height: 0;
+  }
+
+  .qualidade_lista li p {
+    margin-bottom: 30px;
+  }
+
+  /* Call */
+  .call {
+    padding-top: 10px;
+  }
+
+  /* Footer */
+  .historia {
+    padding-right: 0;
+  }
+
+  .copy .grid-16 {
+    margin-bottom: 0;
+  }
+
+  /* Página Sobre */
+  .missao_sobre {
+    padding-top: 40px;
+  }
+  .missao_sobre p,
+  .missao_sobre ul li {
+    padding-right: 0;
+    font-size: 0.875rem;
+  }
+
+  .subtitulo {
+    margin-bottom: 20px;
+  }
+
+  .subtitulo_interno {
+    font-size: 1.25rem;
+  }
+
+  /* Página Produtos */
+  .produto_item h2 {
+    top: -98px;
+  }
+
+  .produto_icone {
+    padding: 21px 0;
+  }
+
+  .produtos_info p {
+    height: auto;
+    font-size: 0.875rem;
+    line-height: 1.3125rem;
+    padding: 15px 30px;
+  }
+
+  .produtos_info ul li {
+    width: 149px;
+    font-size: 0.875rem;
+  }
+
+  .form {
+    padding-right: 0;
+  }
+
+  /* Página Portfólio */
+  .quote_clientes {
+    padding: 30px 0;
+  }
+
+  .quote_clientes p {
+    font-size: 0.875rem;
+    line-height: 1.3rem;
+  }
+
+  .quote_clientes cite {
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+
+  /* Página Contato */
+  .form_contato {
+    padding-right: 0;
+  }
+
+  .contato {
+    padding: 40px 0 20px 0;
+  }
+}

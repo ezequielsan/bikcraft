@@ -1,0 +1,17 @@
+[class^="icon-"], [class*=" icon-"] {
+	display: inline-block;
+	color: #000000;
+	fill: currentColor;
+}
+.icon-facebook {
+	width: 32px;
+	height: 32px;
+}
+.icon-instagram {
+	width: 32px;
+	height: 32px;
+}
+.icon-twitter {
+	width: 32px;
+	height: 32px;
+}
