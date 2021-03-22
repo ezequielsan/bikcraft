@@ -7,39 +7,15 @@ Acesse em  <a href="https://bikcrafts.netlify.app/">https://bikcrafts.netlify.ap
 
 <h2 align="center">
 Tecnologias <br/><br/>
-
 </h2>
 
- 
-<div align="center">
+<li align="center">
   <img src="https://img.shields.io/badge/license-MIT-%23fec63e"/>
   <img src="https://img.shields.io/badge/languages-3-%23fec63e"/>
   <img src="https://img.shields.io/badge/w3c-validated-%23fec63e"/>
-</div>
+</li>
+
 <div align="center">
   <img src="https://github.com/ezequielsan/bikcraft/blob/master/web/bikcraft-devices.png"/>
 </div>
-
-## :rocket: Technologies
-
-  - HTML
-  - CSS
-  - JavaScript
-  - PHP
-  - Figma
-
-## :computer: Project
-O dev.finances é uma aplicação front-end de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo <br> de entrada e saída.
-
-## :page_facing_up: Layout
-  <p>Você pode visualizar o layout do projeto através do link abaixo. É preciso ter uma conta no Figma para acessá-lo.</p>
- <a href="https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover?node-id=0%3A1">LAYOUT</a>
- 
- ## :wrench: New Features
- - Foi adicionado um butão scroll suave para voltar ao topo quando à rolagem para baixo na página.
- - Foi adicionado Mode Dark.
- 
- ## :memo: License
- Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/rocketseat-education/maratona-discover-01/blob/main/LICENSE.md">LICENSE</a> para mais detalhes.
-<hr>
 
