@@ -9,11 +9,11 @@ Acesse em  <a href="https://bikcrafts.netlify.app/">https://bikcrafts.netlify.ap
 Tecnologias <br/><br/>
 </h2>
 
-<li align="center">
-  <img src="https://img.shields.io/badge/license-MIT-%23fec63e"/>
-  <img src="https://img.shields.io/badge/languages-3-%23fec63e"/>
-  <img src="https://img.shields.io/badge/w3c-validated-%23fec63e"/>
-</li>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/license-MIT-%23fec63e"/>   
+  <img src="https://img.shields.io/badge/languages-3-%23fec63e"/>  
+  <img src="https://img.shields.io/badge/w3c-validated-%23fec63e"/>  
+</h3>
 
 <div align="center">
   <img src="https://github.com/ezequielsan/bikcraft/blob/master/web/bikcraft-devices.png"/>
