@@ -1,8 +1,9 @@
 <div align="center">
+  <h1><img width="200" src="https://github.com/ezequielsan/bikcraft/blob/master/web/img/logos/bikcraft-qualidade.png"> </h1>
 
-  <img width="200" src="https://github.com/ezequielsan/bikcraft/blob/master/web/img/logos/bikcraft-qualidade.png">
+  
   <h4 align="center" font-size="20px">Website de vendas de Bicicletas Personalizadas. Prototipado no Figma e codificado com HTML, CSS, JavaScript e PHP para fins de Aprendizado.
-  Acesse em  <a href="https://bikcrafts.netlify.app">https://bikcrafts.netlify.app/</a>
+  Acesse em  <a href="https://bikcrafts.netlify.app">https://bikcrafts.netlify.app</a>
   </h4>
 
 </div>
