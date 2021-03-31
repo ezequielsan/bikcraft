@@ -41,6 +41,7 @@
   <h2>Design</h2>
    <p>Logo após o Wireframe, foi iniciado a criação do layout em si. Aqui foi definido a paleta de cores, tipofrafia, imagens e etc.</p>
   <img width="600" src="https://github.com/ezequielsan/bikcraft/blob/master/Design/design-final/bikcraft-design-contato.png"/>
+  <p>Veja mais no <a href="https://www.figma.com/file/fvjEv1PS6cP8JitjSvk6at/Bikcraft?node-id=0%3A1">Figma</a></p>
 
   
 </div>
