@@ -21,3 +21,18 @@
   <img src="https://github.com/ezequielsan/bikcraft/blob/master/web/bikcraft-devices.png"/>
 </div>
 
+<div align="center">
+  <h2>Wireframe</h2>
+  <p>o Wireframe é um protótipo da página de um site ou aplicativo, serve como um guia para auxiliar na diagramação da página e arquitetura da informação. </p>
+  <img width="600" src="https://github.com/ezequielsan/bikcraft/blob/master/Wireframe/wireframe-final/bikcraft-wireframe-contato.png"/>
+  
+</div>
+
+<div align="center">
+  <h2>Design</h2>
+   <p>Logo após o Wireframe, foi iniciado a criação do layout em si. Aqui foi definido a paleta de cores, tipofrafia, imagens e etc.</p>
+  <img width="600" src="https://github.com/ezequielsan/bikcraft/blob/master/Design/design-final/bikcraft-design-contato.png"/>
+
+  
+</div>
+
